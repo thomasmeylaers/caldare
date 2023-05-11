@@ -9,7 +9,7 @@ kost_gas = 0.1256437;
 boiler_efficiency = 0.9;
 
 % Operationele uren
-dagen_per_jaar = 300;
+dagen_per_jaar = 350;
 openingsuren = 11;
 uren_weekend = 61;
 weken_per_jaar = 50;
