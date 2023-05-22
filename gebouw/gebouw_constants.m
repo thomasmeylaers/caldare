@@ -12,7 +12,7 @@ boiler_efficiency = 0.9;
 dagen_per_jaar = 350;
 openingsuren = 11;
 uren_weekend = 61;
-weken_per_jaar = 50;
+weken_per_jaar = 52;
 
 % Buitencomplex
 gebouw2_temp = 22;
