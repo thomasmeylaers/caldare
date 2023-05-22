@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info Type="StartUp" Visible="0" Icon="" File="pool/stationair.mlx" Name="stationair">
+    <Extension Value="4eaba378-983c-4ee0-ae98-ed6a3c01bbf8" Name="StartUpPrev"/>
+</Info>

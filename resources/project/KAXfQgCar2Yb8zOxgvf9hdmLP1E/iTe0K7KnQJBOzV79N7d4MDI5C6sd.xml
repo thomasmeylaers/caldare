@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info Type="StartUp" Visible="0" Icon="" File="pool/transient.mlx" Name="transient">
+    <Extension Value="50e40572-b2af-4edc-8f51-1e16d5ede254" Name="StartUpPrev"/>
+</Info>
